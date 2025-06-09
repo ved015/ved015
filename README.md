@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Explorer | Competitive Programmer</h3>
 
 - 🔭 I’m currently working on **something cool**.
-- 🌱 I’m currently learning **Java, Angular, and DevOps**.
+- 🌱 I’m currently learning **Java, Angular.
 - 📚 Always exploring new technologies and sharpening my problem-solving skills.
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1gbAaBcN66V1HfQBYA9AMpAB95Fihn7vT/view?usp=sharing).
 
