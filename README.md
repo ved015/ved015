@@ -1,9 +1,25 @@
-<h1 align="center">Hi 👋, I'm Vedant Mahajan</h1>
-<h3 align="center">Machine Learning Explorer | Competitive Programmer</h3>
+# Hi there, I'm Vedant Mahajan 👋
 
-- 🔭 I’m currently working on **something cool**.
-- 🌱 I’m currently learning **Java, Angular**.
-- 📚 Always exploring new technologies and sharpening my problem-solving skills.
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1gbAaBcN66V1HfQBYA9AMpAB95Fihn7vT/view?usp=sharing).
+## 🚀 About Me
 
-- 📂 Dive into my repositories to see what I've been working on!
+I'm a passionate **Software Engineer** and **Machine Learning enthusiast** with a proven track record in building scalable solutions and competing at the highest levels.
+
+- 🏆 **[Kaggle Expert](https://www.kaggle.com/vcode1509)** - Solving real-world ML challenges and sharing knowledge with the community
+- 💼 **Ex-SDE @ Expedia Group** - Built production systems serving millions of users
+- 🌟 **Open Source Contributor** - Giving back to the community that helped me grow
+- 🧠 **[Competitive Programmer](https://leetcode.com/u/VedantMahajan2004/)** - Sharpening problem-solving skills through algorithmic challenges
+- 💻 **Full Stack Developer**
+
+## 🌱 Currently Exploring
+
+I'm on a continuous learning journey, currently diving deep into:
+- Advanced backend architectures and system design
+- Data Structures & Algorithms (DSA) for competitive programming
+- Agentic AI Frameworks and LLM applications
+
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-mahajan-319160257/)
+
+---
