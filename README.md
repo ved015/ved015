@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** and **Machine Learning enthusiast** with a proven track record in building scalable solutions and competing at the highest levels.
+I'm a passionate **Software Engineer** and **Machine Learning enthusiast** 
 
 - 🏆 **[Kaggle Expert](https://www.kaggle.com/vcode1509)** - Solving real-world ML challenges and sharing knowledge with the community
 - 💼 **Ex-SDE @ Expedia Group** - Built production systems serving millions of users
