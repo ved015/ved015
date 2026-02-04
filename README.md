@@ -15,3 +15,11 @@ I'm a passionate **Software Engineer** and **Machine Learning enthusiast**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-mahajan-319160257/)
 
 ---
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ved015&theme=default" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ved015&theme=default" />
+</div>
+ 
