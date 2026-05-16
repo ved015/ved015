@@ -2,8 +2,8 @@
 
 ## About Me
 
-I'm currently working at Supermemory building world's best memory layer<br>
-I'm currently learning advanced backend, devops and agentic Frameworks
+- I'm currently working at Supermemory building world's best memory layer<br>
+- Currently learning advanced backend, devops and agentic Frameworks
 
 ## 📫 Connect With Me
 
