@@ -1,11 +1,9 @@
 # Hi there, I'm Vedant Mahajan 👋
 
-## 🚀 About Me
+## About Me
 
-**Kaggle Expert, Ex-SDE @Expedia Group, Open Source Contributor, Competitive Programmer**
-
-🛠 I'm currently working on Xmem - Agentic Multi-modal Architecture for AI agents<br>
-🚀 I'm currently learning advanced backend, DSA and Agentic Frameworks
+I'm currently working at Supermemory building world's best memory layer<br>
+I'm currently learning advanced backend, devops and agentic Frameworks
 
 ## 📫 Connect With Me
 
