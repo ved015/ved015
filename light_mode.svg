@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1180px" height="540px" font-size="15px">
+  <style>
+    @font-face {
+      src: local("Consolas"), local("Consolas Bold");
+      font-family: "ConsolasFallback";
+      font-display: swap;
+      -webkit-size-adjust: 109%;
+      size-adjust: 109%;
+    }
+    .key { fill: #953800; }
+    .value { fill: #0a3069; }
+    .muted { fill: #c2cfde; }
+    text, tspan { white-space: pre; }
+  </style>
+  <rect width="1180" height="540" fill="#f6f8fa" rx="15"/>
+  <text x="15" y="27" fill="#24292f" font-size="12.5px">
+    <tspan x="15" y="27">                         .,,..       :irrii;i,</tspan>
+    <tspan x="15" y="45">                      ;X255s:.         .....,,</tspan>
+    <tspan x="15" y="63">.          ..       .;AhS#SH3s.           .,:,</tspan>
+    <tspan x="15" y="81">.           ...    ::sAA5H3235si           .,.</tspan>
+    <tspan x="15" y="99">              ..  .rshH33S###SMh</tspan>
+    <tspan x="15" y="117">        .          .r5hA3GGSSG2;             .</tspan>
+    <tspan x="15" y="135">        ......       s23HSSGM2             ...</tspan>
+    <tspan x="15" y="153">          ... .      rX2hHHHM2             .</tspan>
+    <tspan x="15" y="171">,..              .:iA255MHSSShi</tspan>
+    <tspan x="15" y="189">.,.         .:r2H#9B@9#hHGSSS#B#2;          .</tspan>
+    <tspan x="15" y="207">..       ;2MSB@@@@@@@@@SGGMH9@@@@@S5i.   ...,.</tspan>
+    <tspan x="15" y="225">.      :59@@@@@@@@@@@@@BGH#@@@@@@@@@@#hs;...,.</tspan>
+    <tspan x="15" y="243">...   :M9@@@@@@@@@@@@@@@S@@@@@@@@@@@@@@@Bh,</tspan>
+    <tspan x="15" y="261">..   i5#B@@B@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@H.</tspan>
+    <tspan x="15" y="279">    ,ASBB@B9@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@r..</tspan>
+    <tspan x="15" y="297">    XH9@@@#S@9@@@@@@@@@@@@@@@@@@@@@@@@@@@@@H</tspan>
+    <tspan x="15" y="315">. .:M9@@@@SH99@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B,</tspan>
+    <tspan x="15" y="333">MMMGB@@@@BShSB@@@@@@@@@@@@@@@@@@@@@#B@@@@@@@s</tspan>
+    <tspan x="15" y="351">SS9B@@@@BBG5G@@@@@@@@@@@@@@@@@@@@@#3B@@@@@@@M</tspan>
+    <tspan x="15" y="369">GG@@@@@@9#h3#@@@@@@@@@@@@@@@@@@@@@MiS@@@@@@@B,</tspan>
+    <tspan x="15" y="387">HS@@@@@@9M5h@@@@@@@@@@@@@@@@@@@@@@r.i9@@@@@@@r</tspan>
+    <tspan x="15" y="405">HM5hGGGHGh5G@@@@@@@@@@@@@@@@@@@@@H   2#@@@@@@2</tspan>
+    <tspan x="15" y="423">MMAsA22X55M9@@@@@@@@@@@@@@@@@@@@9:   r#@@@@@@M</tspan>
+    <tspan x="15" y="441">MM3sX22X3HS@@@@@@@@@@@@@@@@@@@@@H . .H@@@@@@@h</tspan>
+    <tspan x="15" y="459">HMMAXAAAM#9@@@@@@@@@@@@@@@@@@@@@@X. .hGSSGh3hX</tspan>
+    <tspan x="15" y="477">HMMhXXA5H9#B@@@@@@@@@@@@@@@@@@@@Bi  ;3HGM2,</tspan>
+    <tspan x="15" y="495">MMMMAXA33BBB9B@@@@@@@@@@@@@@@@@@B: ;hGG5r.</tspan>
+    <tspan x="15" y="513">MMMh5AX25B@@@@BB@@@@@@@@@@@@@@@@@sXhGH5:</tspan>
+  </text>
+  <text x="380" y="30" fill="#24292f" font-size="13px">
+    <tspan x="380" y="30">vedant@github</tspan> ----------------------------------------------
+    <tspan x="380" y="50" class="muted">. </tspan><tspan class="key">OS</tspan>:<tspan class="muted"> ..................... </tspan><tspan class="value">New Delhi, India</tspan>
+    <tspan x="380" y="70" class="muted">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="muted"> ................. </tspan><tspan class="value" id="uptime_data">3 years on GitHub</tspan>
+    <tspan x="380" y="90" class="muted">. </tspan><tspan class="key">Host</tspan>:<tspan class="muted"> ........................... </tspan><tspan class="value">supermemory</tspan>
+    <tspan x="380" y="110" class="muted">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="muted"> .......... </tspan><tspan class="value">GSoC '26 · Expedia · Kaggle</tspan>
+    <tspan x="380" y="130" class="muted">. </tspan><tspan class="key">IDE</tspan>:<tspan class="muted"> .......... </tspan><tspan class="value">Gemini CLI, Codex, VS Code</tspan>
+    <tspan x="380" y="150" class="muted">. </tspan>
+    <tspan x="380" y="170" class="muted">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="muted"> . </tspan><tspan class="value">Python · TypeScript</tspan>
+    <tspan x="380" y="190" class="muted">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="muted"> . </tspan><tspan class="value">AI agents · memory</tspan>
+    <tspan x="380" y="210" class="muted">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="muted"> ........... </tspan><tspan class="value">English, Hindi</tspan>
+    <tspan x="380" y="230" class="muted">. </tspan>
+    <tspan x="380" y="250" class="muted">. </tspan><tspan class="key">Work</tspan>.<tspan class="key">Software</tspan>:<tspan class="muted"> ......... </tspan><tspan class="value">Supermemory · Gemini</tspan>
+    <tspan x="380" y="270" class="muted">. </tspan><tspan class="key">Work</tspan>.<tspan class="key">OpenSource</tspan>:<tspan class="muted"> .......... </tspan><tspan class="value">GSoC '26 · Gemini</tspan>
+    <tspan x="380" y="310">- Contact</tspan> -------------------------------------------------
+    <tspan x="380" y="330" class="muted">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="muted"> .......................... </tspan><tspan class="value">@ved015</tspan>
+    <tspan x="380" y="350" class="muted">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="muted"> ..... </tspan><tspan class="value">in/vedant-mahajan-319160257</tspan>
+    <tspan x="380" y="370" class="muted">. </tspan><tspan class="key">Location</tspan>:<tspan class="muted"> ...................... </tspan><tspan class="value">New Delhi</tspan>
+    <tspan x="380" y="390" class="muted">. </tspan><tspan class="key">Org</tspan>:<tspan class="muted"> ......................... </tspan><tspan class="value">supermemory</tspan>
+    <tspan x="380" y="430">- GitHub Stats</tspan> --------------------------------------------
+    <tspan x="380" y="450" class="muted">. </tspan><tspan class="key">Repos</tspan>: <tspan class="value" id="repo_data">28</tspan>  |  <tspan class="key">Stars</tspan>: <tspan class="value" id="star_data">4</tspan>  |  <tspan class="key">Followers</tspan>: <tspan class="value" id="follower_data">31</tspan>
+    <tspan x="380" y="470" class="muted">. </tspan><tspan class="key">Contributions</tspan>.<tspan class="key" id="contributions_year">2026</tspan>: <tspan class="value" id="contributions_data">845</tspan>
+    <tspan x="380" y="490" class="muted">. </tspan><tspan class="key">Public Commits</tspan>: <tspan class="value" id="commit_data">1,621</tspan>  |  <tspan class="key">Pull Requests</tspan>: <tspan class="value" id="pr_data">131</tspan>
+    <tspan x="380" y="510" class="muted">. </tspan><tspan class="key">Merged Pull Requests</tspan>: <tspan class="value" id="merged_pr_data">79</tspan>
+  </text>
+</svg>
